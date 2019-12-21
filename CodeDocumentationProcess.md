@@ -3,23 +3,19 @@
 ### Documentation Process
 All camps will include a checklist with the following items. Each item displayed will have a further description underneath.
 
-<details>
-  <summary>Progress.md Template</summary>
+##### Steps for creating a new camp
+- Create a new repository, using the camp-template repo as a base
+- Write the abstract in the Progress folder
+- Arrange the Kickoff meeting
+- Write the objectives outline in the Progress folder
+- Write the break out in the Progress folder
+- @MatrixSenpai will create the write up
+- @MatrixSenpai or @ctphillips will send the project out to be ninjafied
+- Set up and perform a dry run
+- @MatrixSenpai and @ctphillips will perform a final review and send to corporate for review
+- @MatrixSenpai will perform a release on GitHub
 
-    ##### Template - Progress.md  
-    - [ ] Abstract  
-    - [ ] Kickoff  
-    - [ ] Objectives Outline  
-    - [ ] Break Out  
-    - [ ] Write Up  
-    - [ ] Ninjafy  
-    - [ ] Dry Run  
-    - [ ] Final Review  
-    - [ ] Release  
-
-</details>
-
-#### Process
+#### Process Overview
 - [ ] Abstract
   - General description of the camp
 - [ ] Kickoff Meeting
@@ -40,3 +36,25 @@ All camps will include a checklist with the following items. Each item displayed
   - Perform a Git release and create a tag
 
 ### Process Explained
+Each camp should have a folder called `Progress` that contains the following files:
+- abstract.md
+- objectives.md
+- writeup.md
+These correspond to the abstract, objectives outline, and write up phases of the process.
+
+Once the write up has been ninjafied, there should be three  files in the Camp Kit:
+- Sensei Kit.pdf
+- Ninja Kit - Landscape.pdf
+- Ninja Kit - Portrait.pdf
+
+###### Abstract
+This should be a general idea of what the camp should be focused on, materials and programming languages to use, and any other abstract details that pertain to the camp.
+
+###### Kickoff Meeting
+A planned meeting to discuss the abstract provided and rank its priority.
+
+###### Objectives Outline
+Create a general outline that defines the projects that should include the concept for the ninja to learn
+
+###### Break Out
+Create a detailed outline that defines the projects, difficulty for each project, and any additional projects or extra steps for them to take. This should contain _most_ if not _all_ the content for them to learn
